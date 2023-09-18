@@ -1,0 +1,34 @@
+h1{
+    text-align: center;
+}
+
+.listmenu{
+    margin-left: 8%;
+    margin-right: 8%;
+    list-style: none;
+    display: inline;
+    border: solid;
+    padding: 1%;
+}
+
+div{
+    padding: 2%;
+
+}
+
+section{
+border: solid;
+}
+
+.listtags{
+    list-style: none;
+}
+
+body{
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.sectiomenu{
+border: none;
+}
+
